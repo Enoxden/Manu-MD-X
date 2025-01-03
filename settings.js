@@ -44,5 +44,5 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Manu-MD&2JtzgZ4I#AJZSSkIFS6ZF-8a_pszReVu1aUkFnVAJrxsFsklRcWU", // ඔයාගෙ සෙසන් එක දාගන්න / Put Your Session_id Here !!! 💚
-MONGODB: process.env.MONGODB || "put your mongodb url", // ඔයාගෙ Mongodb Url එක දාගන්න / Put Your Mongodb Url Here !!! 💚
+MONGODB: process.env.MONGODB || "mongodb+srv://manulofficial904:8Y056ujVWnV@cluster0.fm0hj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", // ඔයාගෙ Mongodb Url එක දාගන්න / Put Your Mongodb Url Here !!! 💚
 };
